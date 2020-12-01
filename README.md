@@ -2,4 +2,4 @@
 
 ### Day 1
 * part 1: https://godbolt.org/z/1P4e3h
-* part 2: https://godbolt.org/z/G4MKsx
+* part 2: https://godbolt.org/z/Tr6KKf or https://godbolt.org/z/hezdoc
