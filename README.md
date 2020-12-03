@@ -6,4 +6,4 @@
 ### Day 2
 Full constexpr, result is in the generated assembly
 * part 1: https://gcc.godbolt.org/z/oY6hYs
-* part 2: https://gcc.godbolt.org/z/vo7E5n
+* part 2: https://gcc.godbolt.org/z/vo7E5n or https://gcc.godbolt.org/z/3Grofn (clang, c++17)
