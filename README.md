@@ -8,5 +8,6 @@ Full constexpr, result is in the generated assembly
 * part 1: https://gcc.godbolt.org/z/oY6hYs
 * part 2: https://gcc.godbolt.org/z/vo7E5n or https://gcc.godbolt.org/z/3Grofn (clang, c++17)
 ### Day 3
-* part 1: https://gcc.godbolt.org/z/443EvG
-* part 2: https://gcc.godbolt.org/z/EG86hT
+* part 1: https://gcc.godbolt.org/z/443EvG, https://godbolt.org/z/a5j3no (range-v3, coroutines)
+* part 2: https://gcc.godbolt.org/z/EG86hT, https://godbolt.org/z/Knq7bb (range-v3, coroutines)
+
