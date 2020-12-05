@@ -12,3 +12,6 @@ Full constexpr, result is in the generated assembly
 * part 2: https://gcc.godbolt.org/z/EG86hT, https://godbolt.org/z/Knq7bb (range-v3, coroutines)
 ### Day 4: Passport Processing
 * part 1 & 2: https://gcc.godbolt.org/z/6jecrj
+### Day 5: Binary Boarding
+* part 1: https://godbolt.org/z/7b9oos
+* part 2: https://godbolt.org/z/P3c94j
