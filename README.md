@@ -15,3 +15,6 @@ Full constexpr, result is in the generated assembly
 ### Day 5: Binary Boarding
 * part 1: https://godbolt.org/z/7b9oos
 * part 2: https://godbolt.org/z/P3c94j
+### Day 6: Custom Customs
+* part 1: https://godbolt.org/z/P7zMT1
+* part 2: https://godbolt.org/z/x7c88E
