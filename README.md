@@ -18,3 +18,6 @@ Full constexpr, result is in the generated assembly
 ### Day 6: Custom Customs
 * part 1: https://godbolt.org/z/P7zMT1
 * part 2: https://godbolt.org/z/x7c88E
+### Day 7: Handy Haversacks
+* part 1: https://godbolt.org/z/W9b8sz
+* part 2: https://godbolt.org/z/3n5dvP
