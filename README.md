@@ -21,3 +21,6 @@ Full constexpr, result is in the generated assembly
 ### Day 7: Handy Haversacks
 * part 1: https://godbolt.org/z/W9b8sz
 * part 2: https://godbolt.org/z/3n5dvP
+### Day 8: Handheld Halting
+* part 1: https://godbolt.org/z/K3s4qP
+* part 2: https://godbolt.org/z/8T7W65
