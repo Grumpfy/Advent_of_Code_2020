@@ -24,3 +24,7 @@ Full constexpr, result is in the generated assembly
 ### Day 8: Handheld Halting
 * part 1: https://godbolt.org/z/K3s4qP
 * part 2: https://godbolt.org/z/8T7W65
+### Day 9: Encoding Error
+* part 1: https://godbolt.org/z/94q5cn
+* part 2: https://godbolt.org/z/aPbTj9
+
