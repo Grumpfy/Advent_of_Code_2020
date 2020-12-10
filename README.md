@@ -29,4 +29,4 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/aPbTj9, https://godbolt.org/z/qMbzno (use a sum table)
 ### Day 10: Adapter Array
 * part 1: https://godbolt.org/z/5P3We4
-* part 2: https://godbolt.org/z/5z1oTb
+* part 2: https://godbolt.org/z/5z1oTb, https://godbolt.org/z/hvejYd
