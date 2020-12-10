@@ -26,5 +26,5 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/8T7W65
 ### Day 9: Encoding Error
 * part 1: https://godbolt.org/z/94q5cn
-* part 2: https://godbolt.org/z/aPbTj9
+* part 2: https://godbolt.org/z/aPbTj9, https://godbolt.org/z/qMbzno (use a sum table)
 
