@@ -30,3 +30,7 @@ Full constexpr, result is in the generated assembly
 ### Day 10: Adapter Array
 * part 1: https://godbolt.org/z/5P3We4
 * part 2: https://godbolt.org/z/5z1oTb, https://godbolt.org/z/hvejYd
+### Day 11: Seating System
+* part 1: https://godbolt.org/z/sY18W6
+* part 2: https://godbolt.org/z/9P1jfn
+
