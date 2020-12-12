@@ -33,4 +33,8 @@ Full constexpr, result is in the generated assembly
 ### Day 11: Seating System
 * part 1: https://godbolt.org/z/sY18W6
 * part 2: https://godbolt.org/z/9P1jfn
+### Day 12: Rain Risk
+* part 1: https://godbolt.org/z/94K8n6
+* part 2: https://godbolt.org/z/eYrnM1
+
 
