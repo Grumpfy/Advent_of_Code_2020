@@ -36,5 +36,7 @@ Full constexpr, result is in the generated assembly
 ### Day 12: Rain Risk
 * part 1: https://godbolt.org/z/94K8n6
 * part 2: https://godbolt.org/z/eYrnM1
+### Day 13: Shuttle Search
+* part 1: https://godbolt.org/z/rnMse9
 
 
