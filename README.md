@@ -38,5 +38,6 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/eYrnM1
 ### Day 13: Shuttle Search
 * part 1: https://godbolt.org/z/rnMse9
+* part 2: https://godbolt.org/z/excj9j
 
 
