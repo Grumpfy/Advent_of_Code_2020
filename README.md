@@ -41,5 +41,5 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/excj9j
 ### Day 14: Docking Data
 * part 1: https://godbolt.org/z/GM953q
-
+* part 2: https://godbolt.org/z/qhr17o
 
