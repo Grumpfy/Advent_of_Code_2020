@@ -45,5 +45,7 @@ Full constexpr, result is in the generated assembly
 ### Day 15: Rambunctious Recitation
 * part 1: https://godbolt.org/z/n65b9f
 * part 2: https://godbolt.org/z/9TW1re, https://godbolt.org/z/d7ch6q
-
+### Day 16: Ticket Translation
+* part 1: https://godbolt.org/z/xGMP1n
+* part 2: https://godbolt.org/z/6c3ncG
 
