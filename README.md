@@ -50,7 +50,7 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/6c3ncG
 ### Day 17: Conway Cubes
 * part 1: https://godbolt.org/z/v776YM
-* part 2: https://godbolt.org/z/h8f4E4
+* part 2: https://godbolt.org/z/h8f4E4, https://godbolt.org/z/hb7Tnn
 
 
 
