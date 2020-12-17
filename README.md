@@ -48,4 +48,9 @@ Full constexpr, result is in the generated assembly
 ### Day 16: Ticket Translation
 * part 1: https://godbolt.org/z/xGMP1n
 * part 2: https://godbolt.org/z/6c3ncG
+### Day 17: Conway Cubes
+* part 1: https://godbolt.org/z/v776YM
+* part 2: https://godbolt.org/z/edK6rK
+
+
 
