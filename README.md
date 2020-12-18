@@ -51,6 +51,9 @@ Full constexpr, result is in the generated assembly
 ### Day 17: Conway Cubes
 * part 1: https://godbolt.org/z/v776YM
 * part 2: https://godbolt.org/z/h8f4E4, https://godbolt.org/z/xKEs1a
+### Day 18: Operation Order
+* part 1: https://godbolt.org/z/Yfqc3c
+
 
 
 
