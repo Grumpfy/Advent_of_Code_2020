@@ -53,6 +53,7 @@ Full constexpr, result is in the generated assembly
 * part 2: https://godbolt.org/z/h8f4E4, https://godbolt.org/z/xKEs1a
 ### Day 18: Operation Order
 * part 1: https://godbolt.org/z/Yfqc3c
+* part 2: https://godbolt.org/z/4oedGv
 
 
 
