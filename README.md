@@ -54,6 +54,9 @@ Full constexpr, result is in the generated assembly
 ### Day 18: Operation Order
 * part 1: https://godbolt.org/z/Yfqc3c
 * part 2: https://godbolt.org/z/4oedGv
+### Day 19: Monster Messages
+* part 1: https://godbolt.org/z/axhEvb
+* part 2: https://godbolt.org/z/o9azjx
 
 
 
