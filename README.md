@@ -57,7 +57,7 @@ Full constexpr, result is in the generated assembly
 ### Day 19: Monster Messages
 * part 1: https://godbolt.org/z/axhEvb
 * part 2: https://godbolt.org/z/o9azjx
-
-
+### Day 20: Jurassic Jigsaw
+* part 1: https://godbolt.org/z/nGx5s7
 
 
